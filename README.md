@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezabagheri4&label=Profile%20views&color=0e75b6&style=flat" alt="alirezabagheri4" /> </p>
 
-<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [AMS_Store](https://github.com/alirezabagheri4/AMS_Store)
 
